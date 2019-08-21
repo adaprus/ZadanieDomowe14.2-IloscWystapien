@@ -1,8 +1,8 @@
-public class Number {
+public class NumberOccur {
     private int number;
     private int countOccur;
 
-    public Number(int number) {
+    public NumberOccur(int number) {
         this.number = number;
         countOccur = 1;
     }
